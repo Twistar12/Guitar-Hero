@@ -22,6 +22,8 @@ If you prefer to compile the game manually without the Raylib installer, you wil
 - **macOS**: Clang (install via Terminal: `xcode-select --install`).
 - **Linux (Debian/Ubuntu)**: GCC (install via Terminal: `sudo apt install build-essential libraylib-dev`).
 
+If `gcc` is not available on Windows, install one of the toolchains above or use the Raylib Installer workflow instead.
+
 ### Manual Compilation Example (GCC / MinGW):
 From the root of the project, run:
 ```bash
