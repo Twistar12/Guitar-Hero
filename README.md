@@ -2,8 +2,6 @@
 
 Simple starter application for POP C assignment.
 
-Please see materials on Blackboard for more details.
-
 # Building
 
 ## 1. Using the Raylib Installer (Windows)
