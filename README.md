@@ -1,6 +1,7 @@
-# POP Raylib starter
+# Raylib - Guitar Hero
 
-Simple starter application for POP C assignment.
+Game inspired by Guitar Hero and Clone Hero. Parses MIDI beatmaps and spawns notes, with score system and multiplier streak implementation.
+The game has 3 tracks to play.
 
 # Building
 
